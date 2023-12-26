@@ -67,7 +67,8 @@ IEX (IWR "https://raw.githubusercontent.com/thuyhero2002/build-art-vm/main/setup
 ![image](https://hackmd.io/_uploads/ryGPWvuPT.png)
  
 Khởi động lại lần cuối để chắc chắn rằng tất cả các cài đặt đã hoàn tất.
-Note: Máy ảo này đã được kích hoạt (thời gian sử dụng là 2 giờ mỗi lần) cho 90 ngày. Sử dụng lệnh `slmgr /dlv` trong Command Prompt dưới quyền Administrator. Hoặc có thể dùng lệnh `slmgr /rearm` để làm mới lại thành 90 ngày.
+
+**Note**: Máy ảo này đã được kích hoạt (thời gian sử dụng là 2 giờ mỗi lần) cho 90 ngày. Sử dụng lệnh `slmgr /dlv` trong Command Prompt dưới quyền Administrator. Hoặc có thể dùng lệnh `slmgr /rearm` để làm mới lại thành 90 ngày.
 
 ## Related
 
@@ -76,4 +77,4 @@ Note: Máy ảo này đã được kích hoạt (thời gian sử dụng là 2 g
 
 ## Feedback
 
-If you have any feedback, please reach out to us at phamdinhthuy2002@gmail.com
+Nếu có bất kỳ vấn đề nào, liên hệ đến email phamdinhthuy2002@gmail.com
