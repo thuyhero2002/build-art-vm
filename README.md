@@ -9,7 +9,7 @@ Atomic Red Team Framework được thiết kế theo mô-đun và vô cùng lin
 
 **Bước 1**: Tải máy ảo Windows tại đường [link](https://public-vms.s3.amazonaws.com/MSEdge.Win10.VMware.zip). Giải nén các tệp trong tệp **MSEdge.Win10.VMware.zip**.
 
-**Bước 2**: Tải **Vmware Workstation Player** tại [link](https://www.vm-ware.com/go/getplayer-win). Sau đó cài đặt theo  mặc định và khởi động ứng dụng.
+**Bước 2**: Tải **Vmware Workstation Player** tại [link]([https://www.vm-ware.com/go/getplayer-win](https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe)). Sau đó cài đặt theo  mặc định và khởi động ứng dụng.
 
 **Bước 3**: Chọn **Create a New Virtual Machine** và chọn **MSEdge-Win10-VMware.ovf** từ thư mục đã giải nén.
 
